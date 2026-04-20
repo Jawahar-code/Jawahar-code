@@ -6,7 +6,6 @@
 🤝 Currently improving backend efficiency—focused on optimizing Node.js performance, API response times, and system design.<br>
 🌱 Actively learning and refining skills across the MERN stack (MongoDB, Express, React, Node.js) with a strong emphasis on production-grade practices.<br>
 💬 Can discuss B.Tech CSE experience at Amity, SaaS development workflows, and practical implementation strategies.<br>
-
 ⚡ Operates on structured thinking, clean code, and strong coffee.
 
 
