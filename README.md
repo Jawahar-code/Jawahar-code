@@ -2,12 +2,13 @@
 
 ## About Me:
 
-*   Building **Rapid.ai**, a full-stack AI SaaS platform focused on scalable architecture and automated content generation.
-*   Open to collaborating on MERN/PERN stack projects and AI-driven integrations.
-*   Currently improving backend efficiency—focused on optimizing Node.js performance, API response times, and system desig.
-*   Actively learning and refining skills across the MERN stack (MongoDB, Express, React, Node.js) with a strong emphasis on production-grade practices.
-*   Can discuss B.Tech CSE experience at Amity University, SaaS development workflows, and practical implementation strategies.
-*   Operates on structured thinking, clean code, and analytical problem-solving.
+- Full Stack Developer focused on building scalable web applications with the MERN stack.
+- Expanding expertise in AI integration using LLMs, RAG pipelines, OCR, vector databases, and modern AI tooling.
+- Continuously improving backend engineering through efficient API design, database optimization, authentication and tuning.
+- Practicing Data Structures & Algorithms in Java to strengthen algorithmic thinking and software engineering fundamentals.
+- Passionate about writing clean, maintainable code and creating responsive, user-centric applications.
+- Open to collaborating on Full Stack, SaaS, and AI-powered web development projects.
+- Interested in modern software architecture, cloud technologies, and production-ready development workflows.
 
 
 
